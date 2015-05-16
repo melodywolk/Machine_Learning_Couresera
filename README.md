@@ -1,2 +1,2 @@
-# Machine_Learning_Couresera
+# Machine_Learning_Coursera
 Source codes for exercices
